@@ -1,9 +1,9 @@
-#Installing the requid paclges
+#Installing the required packages
 install.packages('tidyverse')
 install.packages('janitor')
 install.packages('lubridate')
 
-#Calling the required packges
+#Calling the required packages
 library(tidyverse)
 library(janitor)
 library(lubridate)
