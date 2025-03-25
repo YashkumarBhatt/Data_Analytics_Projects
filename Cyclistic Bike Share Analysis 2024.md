@@ -5,3 +5,4 @@ The analysis aims to identify the trends i.e., similarities and differences betw
 R programming is used to combine, clean, and perform exploratory analysis and conclude that casual riders use the facility more than the members with the average trip duration almost double the members.
 In addition to this, the analysis also unveiled the most popular period across the year, the busiest stations, and the day of the week for both types of members.
 The conclusion suggests that the company should design a marketing campaign to attract casual riders to become members (subscribers) so that they can avail full benefits and the company can grow further.
+The R script has a brief comment explaining each step. The outcome and raw files can be accessed through Kaggle Notebook (https://www.kaggle.com/code/yashbhatt1998/cyclistic-bike-share-analysis-2024/notebook)
