@@ -4,4 +4,4 @@ The KPIs here show the disparity in the salary slab, education, and job satisfac
 This is crucial as the average salary of the company is 7 times more than what they are getting.
 Further insights can looked upon by the education and years of the company.
 The cleaned CSV file resides with the file name HR Analytics.csv in this repository.
-![Uploading Screenshot 2025-03-25 at 4.30.42 PM.png…]()
+<img width="1227" alt="Screenshot 2025-03-25 at 4 30 42 PM" src="https://github.com/user-attachments/assets/8fc7a343-67db-45ad-8877-a82dea6f8089" />
