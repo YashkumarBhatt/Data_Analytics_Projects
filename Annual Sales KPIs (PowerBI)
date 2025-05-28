@@ -1,0 +1,4 @@
+This annual sales interactive dashboard, designed for a client in the wholesale FMCG supply chain industry, displays the most relevant KPIs, including gross profit, items sold by category, and target completion, further grouped by quarter.
+The data came as Excel spreadsheets, which were first formatted, cleaned, and further analyzed through SQL to group, sort, and extract the relevant data columns. This data was then imported into Power BI to create a dashboard according to the client's preferences.
+These types of dashboards are very useful, showing both the aggregation as well as breakdown of data by grouping them into the relevant fields. It can always be further modified according to the need and connected with a live data source to display the latest datapoints.
+A link to the DAX file is provided in a separate file named 'Sales KPIs dashboard (PowerBI).
