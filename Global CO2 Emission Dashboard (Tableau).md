@@ -3,4 +3,3 @@ The emission per capita shows how the emission pattern does not depend on the to
 The data is further grouped by the continents/regions and the line graph over the years shows a notable increase in the emission starting from the 1990s and a plunge in the East Asia region.
 The Spreadsheet containing the cleaned data and the link to download raw data can be found in the CO2 Dataset file in this repository.
 ![CO2 Emission Dashboard](https://raw.githubusercontent.com/YashkumarBhatt/Data_Analytics_Projects/main/CO2_Emission_Dashboard.png)
-
