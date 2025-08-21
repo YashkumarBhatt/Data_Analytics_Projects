@@ -2,4 +2,4 @@ The CO2 Emission Dashboard created on Tableau shows the graphical representation
 The emission per capita shows how the emission pattern does not depend on the total population of the country. For example, Middle-Eastern oil-producing countries such as Qatar or Kuwait have the highest values whereas some mostly populated countries such as India have a much lower rate.
 The data is further grouped by the continents/regions and the line graph over the years shows a notable increase in the emission starting from the 1990s and a plunge in the East Asia region.
 The Spreadsheet containing the cleaned data and the link to download raw data can be found in the CO2 Dataset file in this repository.
-<img width="634" alt="CO2 Emission Dashboard" src="(https://github.com/YashkumarBhatt/Data_Analytics_Projects/blob/1e7475bd52c3ad8e55c94ce0262caab9958a59fc/CO2%20Emission%20Dashnoard.png)"/>
+![CO2 Emission Dashboard]
