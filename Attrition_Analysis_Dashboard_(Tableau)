@@ -1,0 +1,6 @@
+This dashboard shows the attrition analytics of a company having several metrics such as gender, years at company, salary, age, department and so on. 
+It can be seen that the overall attrition rate is around 16% while the more males have resined than the females. 
+Interstingly, the employees working longer in the copany as well as overall in thier professional career have lower probebility of leaving the company; eventhligh with lesser salaries.
+Also, Research & Development shows the highest number of outgoing people raising a perticular attention while HR has the lowest attrition percentage.
+This kind of dashobards are very useful for a qucik and clean analysis to identify the company's manpower related concerns.
+Here is the direct link to the dashbard: https://public.tableau.com/views/AttritionAnalysis_17553374431500/AttritionAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
